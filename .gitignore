@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings (se não quiser versionar configs locais)
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs (se existirem)
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Ignore o arquivo de dependências lockado se não quiser versionar
+# (se usar pip-tools, poetry ou pipenv, adapte)
+# requirements.lock
