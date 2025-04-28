@@ -7,4 +7,3 @@ PyMuPDF
 sentence-transformers
 torch
 keybert
-huggingface_hub[hf_xet]
